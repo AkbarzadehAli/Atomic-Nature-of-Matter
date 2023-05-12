@@ -1,7 +1,7 @@
 # Atomic-Nature-of-Matter
 محاسبه عدد آووگادرو
 ______________________________
-Student Number         |  Group members
+Group members         |  Student number
 _______________________________
 Ali Akbarzadeh         | 14015367904
 _______________________________
